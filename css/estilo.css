@@ -25,4 +25,41 @@ p{
     text-align: justify;
     text-indent: 40px;
 }
-.fundo
+.fundo{
+
+}
+footer p{
+
+    font-size: 1.2em;
+    text-align: center;
+  
+  }
+  .logo{
+    padding-top: 1%;
+    padding-bottom: 1%;
+  }
+  
+  .menu, footer{
+    background-color: rgba(128, 128, 128, 0.3);
+    /* rgba(199, 21, 133, 0.2);  */  
+    /* rgba(143, 188, 143, 0.2); */
+    /* rgba(128, 128, 128, 0.4); */
+    padding: 1.5%;
+  }
+  
+  .iten_menu{
+    line-height: 1.5;
+    text-align: center;
+  }
+  .iten_menu a:link{
+      color:#8B4513 ;
+  }
+  .iten_menu a:visited{
+    color:#8B4513 ;
+}
+.iten_menu a:hover{
+    color:#556B2F ;
+}
+.iten_menu a:active{
+    color:#B0E0E6 ;
+}
